@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH --job-name=Assignment2_team_5
+#SBATCH --time=00:10:00
+#SBATCH --mem=16G
+#SBATCH --ntasks=16
+#SBATCH --cpus-per-task=4
+#SBATCH --ntasks-per-node=4
+#SBATCH --output=mpi.out
+#SBATCH --partition=defq
+
+module load openmpi-4.1.4-gcc-11.2.0-6z47sq3
+
+if [ ! -f mpi ]
+then
+    mpicc src/main.c src/seismic_sensor.c src/util.c src/struct_data.c src/base.c -Wall -fopenmp -lm -o mpi
+fi
+
+srun mpi 5 3 2
+
+exit 0

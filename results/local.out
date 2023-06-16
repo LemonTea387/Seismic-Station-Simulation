@@ -1,0 +1,82 @@
+[Node 3] sending Report to BASE STATION
+[Base] Logs the report
+[Node 4] sending Report to BASE STATION
+[Base] Logs the report
+[Node 3] sending Report to BASE STATION
+[Node 4] sending Report to BASE STATION
+[Node 6] sending Report to BASE STATION
+[Node 1] sending Report to BASE STATION
+[Base] Logs the report
+[Base] Logs the report
+[Base] Logs the report
+[Base] Logs the report
+[Node 1] sending Report to BASE STATION
+[Base] Logs the report
+[Node 7] sending Report to BASE STATION
+[Base] Logs the report
+[Node 0] sending Report to BASE STATION
+[Node 3] sending Report to BASE STATION
+[Node 7] sending Report to BASE STATION
+[Base] Logs the report
+[Base] Logs the report
+[Base] Logs the report
+[Node 7] sending Report to BASE STATION
+[Base] Logs the report
+[Node 5] sending Report to BASE STATION
+[Base] Logs the report
+[Node 3] sending Report to BASE STATION
+[Base] Logs the report
+[Node 0] sending Report to BASE STATION
+[Base] Logs the report
+[Node 2] sending Report to BASE STATION
+[Base] Logs the report
+[Node 7] sending Report to BASE STATION
+[Base] Logs the report
+[Node 1] sending Report to BASE STATION
+[Base] Logs the report
+[Node 1] sending Report to BASE STATION
+[Node 4] sending Report to BASE STATION
+[Base] Logs the report
+[Base] Logs the report
+[Node 5] sending Report to BASE STATION
+[Base] Logs the report
+[Node 7] sending Report to BASE STATION
+[Node 8] sending Report to BASE STATION
+[Base] Logs the report
+[Base] Logs the report
+[Node 7] sending Report to BASE STATION
+[Base] Logs the report
+[Node 1] sending Report to BASE STATION
+[Node 4] sending Report to BASE STATION
+[Base] Logs the report
+[Base] Logs the report
+Shutdown the program
+[Node 6] Exiting.
+[Node 3] Exiting.
+[Base] Send termination signal to [Node 1]
+[Base] Send termination signal to [Node 2]
+[Base] Send termination signal to [Node 3]
+[Base] Send termination signal to [Node 4]
+[Base] Send termination signal to [Node 5]
+[Base] Send termination signal to [Node 6]
+[Base] Send termination signal to [Node 7]
+[Base] Send termination signal to [Node 8]
+[Base] Send termination signal to [Node 9]
+[Base] Exiting
+[Node 1] Exiting.
+[Node 8] Exiting.
+[Node 2] Exiting.
+[Node 0] Exiting.
+[Node 5] Exiting.
+[Node 4] Exiting.
+[Node 7] Exiting.
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully
+Programs Ended Successfully

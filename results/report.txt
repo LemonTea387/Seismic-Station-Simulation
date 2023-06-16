@@ -1,0 +1,675 @@
+Report : 1
+Logged Time : 2022:10:18 16:57:35
+Alert Report Time : 2022:10:18 16:57:34
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+3 (1, 0),(0.714281, -0.139839),6.540783
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+4 (1, 1),(0.647689, 0.579645),80.339213,4.484554,2.056229
+6 (2, 0),(1.510227, 0.014819),90.159714,0.319323,6.221460
+0 (0, 0),(0.411647, -0.302449),38.201020,7.682296,1.141513
+
+Balloon Seismic Report Time : 2022:10:18 16:57:33
+Ballon Seismic reporting Coord : (3.146589, 0.290205)
+Balloon Seismic Location Different with reporting node : 274.649750
+Balloon Seismic Magnitude : 5.014171
+Balloon Seismic Magnitude Different with reporting node : 1.526612
+
+Communication Time (seconds) : 0.210984
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 2
+Logged Time : 2022:10:18 16:57:51
+Alert Report Time : 2022:10:18 16:57:50
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+4 (1, 1),(0.863419, 0.771847),2.562429
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+3 (1, 0),(1.182484, -0.489781),144.681498,0.950620,1.611809
+5 (1, 2),(1.051122, 1.546223),88.588365,4.252223,1.689794
+7 (2, 1),(2.416350, 1.077013),175.977592,7.512684,4.950255
+1 (0, 1),(-0.177290, 1.488366),140.495208,2.753142,0.190713
+
+Balloon Seismic Report Time : 2022:10:18 16:57:50
+Ballon Seismic reporting Coord : (2.042847, 2.369188)
+Balloon Seismic Location Different with reporting node : 220.738463
+Balloon Seismic Magnitude : 3.562019
+Balloon Seismic Magnitude Different with reporting node : 0.999590
+
+Communication Time (seconds) : 0.006761
+Total Message between reporting nodes and adjacent nodes : 8
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 3
+Logged Time : 2022:10:18 16:58:01
+Alert Report Time : 2022:10:18 16:58:00
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+3 (1, 0),(0.848831, -0.156920),6.990013
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+0 (0, 0),(-0.483699, -0.257113),148.588893,8.041768,1.051754
+4 (1, 1),(0.802850, 0.961270),124.429183,2.853909,4.136104
+6 (2, 0),(1.516025, -0.238630),74.742561,7.594234,0.604221
+
+Balloon Seismic Report Time : 2022:10:18 16:58:00
+Ballon Seismic reporting Coord : (0.126716, 1.103778)
+Balloon Seismic Location Different with reporting node : 161.545685
+Balloon Seismic Magnitude : 3.473428
+Balloon Seismic Magnitude Different with reporting node : 3.516585
+
+Communication Time (seconds) : 0.002285
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 4
+Logged Time : 2022:10:18 16:58:02
+Alert Report Time : 2022:10:18 16:58:00
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+4 (1, 1),(0.576353, 1.321742),3.917417
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+3 (1, 0),(0.848831, -0.156920),167.175270,6.990013,3.072596
+5 (1, 2),(0.887053, 2.276154),111.599328,1.703383,2.214034
+1 (0, 1),(-0.102530, 1.389763),75.866367,3.177298,0.740119
+7 (2, 1),(2.034517, 1.386808),162.301670,9.158954,5.241537
+
+Balloon Seismic Report Time : 2022:10:18 16:58:00
+Ballon Seismic reporting Coord : (0.126716, 1.103778)
+Balloon Seismic Location Different with reporting node : 55.561822
+Balloon Seismic Magnitude : 3.473428
+Balloon Seismic Magnitude Different with reporting node : 0.443989
+
+Communication Time (seconds) : 1.904479
+Total Message between reporting nodes and adjacent nodes : 8
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 5
+Logged Time : 2022:10:18 16:58:02
+Alert Report Time : 2022:10:18 16:58:00
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+1 (0, 1),(-0.102530, 1.389763),3.177298
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+0 (0, 0),(-0.343321, -0.099056),167.698909,1.088088,2.089210
+2 (0, 2),(-0.366061, 2.378686),113.799727,5.212840,2.035542
+4 (1, 1),(0.576353, 1.321742),75.866367,3.917417,0.740119
+
+Balloon Seismic Report Time : 2022:10:18 16:58:00
+Ballon Seismic reporting Coord : (0.126716, 1.103778)
+Balloon Seismic Location Different with reporting node : 40.755866
+Balloon Seismic Magnitude : 3.473428
+Balloon Seismic Magnitude Different with reporting node : 0.296130
+
+Communication Time (seconds) : 1.039726
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 6
+Logged Time : 2022:10:18 16:58:02
+Alert Report Time : 2022:10:18 16:58:00
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+6 (2, 0),(1.516025, -0.238630),7.594234
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+7 (2, 1),(2.034517, 1.386808),189.629837,9.158954,1.564720
+3 (1, 0),(0.848831, -0.156920),74.742561,6.990013,0.604221
+
+Balloon Seismic Report Time : 2022:10:18 16:58:00
+Ballon Seismic reporting Coord : (0.126716, 1.103778)
+Balloon Seismic Location Different with reporting node : 214.804222
+Balloon Seismic Magnitude : 3.473428
+Balloon Seismic Magnitude Different with reporting node : 4.120806
+
+Communication Time (seconds) : 1.055610
+Total Message between reporting nodes and adjacent nodes : 4
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 7
+Logged Time : 2022:10:18 16:58:05
+Alert Report Time : 2022:10:18 16:58:05
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+1 (0, 1),(-0.397032, 0.544900),8.039445
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+2 (0, 2),(-0.293121, 2.368775),203.130800,7.682588,0.356857
+0 (0, 0),(0.498925, -0.281743),135.551270,8.391122,0.351678
+4 (1, 1),(0.873622, 1.469701),174.748386,6.483680,1.555764
+
+Balloon Seismic Report Time : 2022:10:18 16:58:05
+Ballon Seismic reporting Coord : (3.495698, 0.373028)
+Balloon Seismic Location Different with reporting node : 433.273054
+Balloon Seismic Magnitude : 6.346993
+Balloon Seismic Magnitude Different with reporting node : 1.692452
+
+Communication Time (seconds) : 0.008520
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 3
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 8
+Logged Time : 2022:10:18 16:58:11
+Alert Report Time : 2022:10:18 16:58:10
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+7 (2, 1),(2.224293, 1.255102),6.785582
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+6 (2, 0),(2.440385, 0.274145),111.604347,9.506111,2.720529
+8 (2, 2),(2.429122, 1.641607),48.608205,8.136534,1.350951
+4 (1, 1),(0.516169, 0.970124),192.558278,1.638580,5.147002
+
+Balloon Seismic Report Time : 2022:10:18 16:58:10
+Ballon Seismic reporting Coord : (1.950559, 0.684126)
+Balloon Seismic Location Different with reporting node : 70.370668
+Balloon Seismic Magnitude : 7.281642
+Balloon Seismic Magnitude Different with reporting node : 0.496060
+
+Communication Time (seconds) : 0.008828
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 9
+Logged Time : 2022:10:18 16:58:22
+Alert Report Time : 2022:10:18 16:58:20
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+0 (0, 0),(0.026745, 0.269914),8.915295
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+1 (0, 1),(-0.344251, 1.125229),103.667693,7.432310,1.482985
+3 (1, 0),(0.687831, -0.330334),99.288661,7.585265,1.330030
+
+Balloon Seismic Report Time : 2022:10:18 16:58:20
+Ballon Seismic reporting Coord : (1.606980, 2.579655)
+Balloon Seismic Location Different with reporting node : 311.159597
+Balloon Seismic Magnitude : 5.501715
+Balloon Seismic Magnitude Different with reporting node : 3.413580
+
+Communication Time (seconds) : 0.004854
+Total Message between reporting nodes and adjacent nodes : 4
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 10
+Logged Time : 2022:10:18 16:58:23
+Alert Report Time : 2022:10:18 16:58:20
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+3 (1, 0),(0.687831, -0.330334),7.585265
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+0 (0, 0),(0.026745, 0.269914),99.288661,8.915295,1.330030
+4 (1, 1),(1.049769, 0.508965),101.623666,0.480164,7.105101
+6 (2, 0),(2.288830, 0.009323),181.982283,5.532669,2.052596
+
+Balloon Seismic Report Time : 2022:10:18 16:58:20
+Ballon Seismic reporting Coord : (1.606980, 2.579655)
+Balloon Seismic Location Different with reporting node : 339.268309
+Balloon Seismic Magnitude : 5.501715
+Balloon Seismic Magnitude Different with reporting node : 2.083550
+
+Communication Time (seconds) : 2.025113
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 11
+Logged Time : 2022:10:18 16:58:24
+Alert Report Time : 2022:10:18 16:58:20
+Alert Type : conclusive
+
+Reporting Node,Seismic Coord, Magnitude
+7 (2, 1),(1.584858, 0.567334),7.668710
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+6 (2, 0),(2.288830, 0.009323),99.864760,5.532669,2.136041
+8 (2, 2),(2.260275, 1.996940),175.731532,8.343746,0.675036
+4 (1, 1),(1.402967, 1.127988),65.520472,8.743855,1.075146
+
+Balloon Seismic Report Time : 2022:10:18 16:58:20
+Ballon Seismic reporting Coord : (1.606980, 2.579655)
+Balloon Seismic Location Different with reporting node : 223.686657
+Balloon Seismic Magnitude : 5.501715
+Balloon Seismic Magnitude Different with reporting node : 2.166995
+
+Communication Time (seconds) : 2.963541
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 12
+Logged Time : 2022:10:18 16:58:28
+Alert Report Time : 2022:10:18 16:58:25
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+7 (2, 1),(1.950886, 0.596350),3.672354
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+6 (2, 0),(1.824815, 0.368875),28.906935,5.403197,1.730843
+4 (1, 1),(1.349266, 1.239162),97.877188,2.126855,1.545499
+8 (2, 2),(1.925642, 1.633099),115.249473,5.155373,1.483020
+
+Balloon Seismic Report Time : 2022:10:18 16:58:25
+Ballon Seismic reporting Coord : (0.633259, 0.909833)
+Balloon Seismic Location Different with reporting node : 150.600683
+Balloon Seismic Magnitude : 8.557934
+Balloon Seismic Magnitude Different with reporting node : 4.885580
+
+Communication Time (seconds) : 0.000450
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 13
+Logged Time : 2022:10:18 16:58:30
+Alert Report Time : 2022:10:18 16:58:30
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+5 (1, 2),(1.435212, 2.363411),3.222648
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+4 (1, 1),(0.511009, 1.046489),178.878582,3.138593,0.084056
+8 (2, 2),(1.963889, 2.111970),65.090901,5.586368,2.363720
+2 (0, 2),(0.366276, 1.569718),148.035418,0.407187,2.815461
+
+Balloon Seismic Report Time : 2022:10:18 16:58:30
+Ballon Seismic reporting Coord : (-0.220979, 3.297308)
+Balloon Seismic Location Different with reporting node : 211.415852
+Balloon Seismic Magnitude : 6.444965
+Balloon Seismic Magnitude Different with reporting node : 3.222317
+
+Communication Time (seconds) : 0.002158
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 3
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 14
+Logged Time : 2022:10:18 16:58:35
+Alert Report Time : 2022:10:18 16:58:35
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+3 (1, 0),(1.438338, -0.133610),2.871695
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+0 (0, 0),(-0.430245, 0.449327),217.651417,0.860558,2.011137
+4 (1, 1),(0.511009, 1.046489),166.871679,3.138593,0.266897
+6 (2, 0),(2.059243, 0.447897),94.571623,5.752681,2.880986
+
+Balloon Seismic Report Time : 2022:10:18 16:58:35
+Ballon Seismic reporting Coord : (0.268855, 2.152908)
+Balloon Seismic Location Different with reporting node : 285.546082
+Balloon Seismic Magnitude : 9.176745
+Balloon Seismic Magnitude Different with reporting node : 6.305049
+
+Communication Time (seconds) : 0.004988
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 3
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 15
+Logged Time : 2022:10:18 16:58:36
+Alert Report Time : 2022:10:18 16:58:35
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+0 (0, 0),(-0.307786, 0.163227),3.488929
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+1 (0, 1),(0.476954, 1.264229),150.339586,5.735808,2.246879
+3 (1, 0),(1.438338, -0.133610),196.945231,2.871695,0.617234
+
+Balloon Seismic Report Time : 2022:10:18 16:58:35
+Ballon Seismic reporting Coord : (0.268855, 2.152908)
+Balloon Seismic Location Different with reporting node : 230.345630
+Balloon Seismic Magnitude : 9.176745
+Balloon Seismic Magnitude Different with reporting node : 5.687815
+
+Communication Time (seconds) : 0.042427
+Total Message between reporting nodes and adjacent nodes : 4
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 16
+Logged Time : 2022:10:18 16:58:36
+Alert Report Time : 2022:10:18 16:58:35
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+2 (0, 2),(-0.063762, 1.886420),5.701775
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+5 (1, 2),(1.435212, 2.363411),174.911996,3.222648,2.479127
+1 (0, 1),(0.476954, 1.264229),91.659086,5.735808,0.034033
+
+Balloon Seismic Report Time : 2022:10:18 16:58:35
+Ballon Seismic reporting Coord : (0.268855, 2.152908)
+Balloon Seismic Location Different with reporting node : 47.391656
+Balloon Seismic Magnitude : 9.176745
+Balloon Seismic Magnitude Different with reporting node : 3.474969
+
+Communication Time (seconds) : 0.152116
+Total Message between reporting nodes and adjacent nodes : 4
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 17
+Logged Time : 2022:10:18 16:58:48
+Alert Report Time : 2022:10:18 16:58:46
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+7 (2, 1),(2.173108, 0.930969),3.974012
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+4 (1, 1),(1.034190, 1.453223),139.311740,5.503595,1.529583
+6 (2, 0),(1.535044, 0.016245),123.969140,9.754289,5.780276
+8 (2, 2),(1.869324, 2.387036),165.294662,2.984462,0.989550
+
+Balloon Seismic Report Time : 2022:10:18 16:58:45
+Ballon Seismic reporting Coord : (0.453120, 3.382537)
+Balloon Seismic Location Different with reporting node : 332.934300
+Balloon Seismic Magnitude : 9.266561
+Balloon Seismic Magnitude Different with reporting node : 5.292548
+
+Communication Time (seconds) : 0.000410
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 18
+Logged Time : 2022:10:18 16:58:51
+Alert Report Time : 2022:10:18 16:58:51
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+1 (0, 1),(-0.085373, 0.997559),5.703758
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+4 (1, 1),(0.923346, 0.992226),112.166024,9.731149,4.027391
+0 (0, 0),(-0.233334, 0.039760),107.765186,7.602487,1.898729
+2 (0, 2),(-0.474514, 1.952441),114.655202,3.338246,2.365512
+
+Balloon Seismic Report Time : 2022:10:18 16:58:51
+Ballon Seismic reporting Coord : (0.566663, 1.659041)
+Balloon Seismic Location Different with reporting node : 103.279536
+Balloon Seismic Magnitude : 5.314052
+Balloon Seismic Magnitude Different with reporting node : 0.389706
+
+Communication Time (seconds) : 0.000121
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 19
+Logged Time : 2022:10:18 16:58:59
+Alert Report Time : 2022:10:18 16:58:56
+Alert Type : conclusive
+
+Reporting Node,Seismic Coord, Magnitude
+1 (0, 1),(-0.377212, 1.480314),3.909833
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+0 (0, 0),(0.012535, 0.167724),152.250670,0.392803,3.517029
+2 (0, 2),(-0.271807, 2.256408),87.088588,2.347492,1.562341
+4 (1, 1),(1.001191, 0.826531),169.636731,4.041576,0.131743
+
+Balloon Seismic Report Time : 2022:10:18 16:58:56
+Ballon Seismic reporting Coord : (1.550141, 2.170895)
+Balloon Seismic Location Different with reporting node : 227.651061
+Balloon Seismic Magnitude : 6.487048
+Balloon Seismic Magnitude Different with reporting node : 2.577216
+
+Communication Time (seconds) : 0.008006
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 20
+Logged Time : 2022:10:18 16:58:59
+Alert Report Time : 2022:10:18 16:58:56
+Alert Type : conclusive
+
+Reporting Node,Seismic Coord, Magnitude
+4 (1, 1),(1.001191, 0.826531),4.041576
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+5 (1, 2),(0.588252, 2.462852),187.637564,3.068237,0.973338
+7 (2, 1),(1.686071, 0.712040),77.211351,1.894437,2.147139
+1 (0, 1),(-0.377212, 1.480314),169.636731,3.909833,0.131743
+3 (1, 0),(1.025863, -0.299991),125.273996,7.136944,3.095368
+
+Balloon Seismic Report Time : 2022:10:18 16:58:56
+Ballon Seismic reporting Coord : (1.550141, 2.170895)
+Balloon Seismic Location Different with reporting node : 161.433899
+Balloon Seismic Magnitude : 6.487048
+Balloon Seismic Magnitude Different with reporting node : 2.445473
+
+Communication Time (seconds) : 0.734176
+Total Message between reporting nodes and adjacent nodes : 8
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 21
+Logged Time : 2022:10:18 16:59:01
+Alert Report Time : 2022:10:18 16:59:01
+Alert Type : conclusive
+
+Reporting Node,Seismic Coord, Magnitude
+5 (1, 2),(0.824819, 1.807574),7.300535
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+4 (1, 1),(1.454519, 0.843798),127.995423,8.037852,0.737316
+8 (2, 2),(1.551904, 1.707945),81.603300,4.775461,2.525074
+2 (0, 2),(-0.496102, 1.701887),147.349096,8.775544,1.475009
+
+Balloon Seismic Report Time : 2022:10:18 16:59:01
+Ballon Seismic reporting Coord : (1.250550, 3.227340)
+Balloon Seismic Location Different with reporting node : 164.790460
+Balloon Seismic Magnitude : 9.481073
+Balloon Seismic Magnitude Different with reporting node : 2.180538
+
+Communication Time (seconds) : 0.005632
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 3
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 22
+Logged Time : 2022:10:18 16:59:12
+Alert Report Time : 2022:10:18 16:59:11
+Alert Type : conclusive
+
+Reporting Node,Seismic Coord, Magnitude
+7 (2, 1),(1.821535, 1.097184),6.244780
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+6 (2, 0),(2.304166, 0.390007),95.159804,3.634096,2.610684
+8 (2, 2),(1.576802, 1.911889),94.551900,3.637843,2.606937
+4 (1, 1),(1.455555, 0.985399),42.549647,9.633139,3.388359
+
+Balloon Seismic Report Time : 2022:10:18 16:59:09
+Ballon Seismic reporting Coord : (2.251446, 0.163897)
+Balloon Seismic Location Different with reporting node : 114.198044
+Balloon Seismic Magnitude : 5.800784
+Balloon Seismic Magnitude Different with reporting node : 0.443996
+
+Communication Time (seconds) : 0.008130
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 23
+Logged Time : 2022:10:18 16:59:12
+Alert Report Time : 2022:10:18 16:59:09
+Alert Type : conclusive
+
+Reporting Node,Seismic Coord, Magnitude
+8 (2, 2),(1.576802, 1.911889),3.637843
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+5 (1, 2),(0.696563, 2.037802),98.873970,1.317752,2.320091
+7 (2, 1),(1.905854, 1.405400),67.138942,0.792164,2.845679
+
+Balloon Seismic Report Time : 2022:10:18 16:59:09
+Ballon Seismic reporting Coord : (2.251446, 0.163897)
+Balloon Seismic Location Different with reporting node : 208.239849
+Balloon Seismic Magnitude : 5.800784
+Balloon Seismic Magnitude Different with reporting node : 2.162941
+
+Communication Time (seconds) : 1.306834
+Total Message between reporting nodes and adjacent nodes : 4
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 24
+Logged Time : 2022:10:18 16:59:22
+Alert Report Time : 2022:10:18 16:59:21
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+7 (2, 1),(1.649276, 1.290124),8.223842
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+6 (2, 0),(2.125896, -0.226631),176.698598,6.609403,1.614438
+8 (2, 2),(1.834897, 2.091084),91.382836,7.042211,1.181631
+4 (1, 1),(1.071567, 1.023280),70.756454,1.057571,7.166271
+
+Balloon Seismic Report Time : 2022:10:18 16:59:21
+Ballon Seismic reporting Coord : (0.901441, 2.246680)
+Balloon Seismic Location Different with reporting node : 134.990354
+Balloon Seismic Magnitude : 9.673512
+Balloon Seismic Magnitude Different with reporting node : 1.449670
+
+Communication Time (seconds) : 0.004498
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 25
+Logged Time : 2022:10:18 16:59:27
+Alert Report Time : 2022:10:18 16:59:26
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+1 (0, 1),(-0.128088, 1.430509),7.865387
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+0 (0, 0),(0.157304, 0.358676),123.334714,9.239698,1.374310
+2 (0, 2),(-0.023884, 1.952564),59.194989,5.016014,2.849373
+4 (1, 1),(0.976503, 0.526618),158.704002,8.998489,1.133102
+
+Balloon Seismic Report Time : 2022:10:18 16:59:26
+Ballon Seismic reporting Coord : (2.129216, 2.934705)
+Balloon Seismic Location Different with reporting node : 301.603793
+Balloon Seismic Magnitude : 5.796699
+Balloon Seismic Magnitude Different with reporting node : 2.068688
+
+Communication Time (seconds) : 0.407617
+Total Message between reporting nodes and adjacent nodes : 6
+Number of adjacent matches with reporting node : 3
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
+Report : 26
+Logged Time : 2022:10:18 16:59:28
+Alert Report Time : 2022:10:18 16:59:26
+Alert Type : inconclusive
+
+Reporting Node,Seismic Coord, Magnitude
+4 (1, 1),(0.976503, 0.526618),8.998489
+
+Adjacent Nodes, Seismic Coord, Location_Diff, Magnitude, Mag_Diff
+3 (1, 0),(1.259050, 0.019525),64.538886,4.931145,4.067344
+7 (2, 1),(1.649276, 1.290124),113.137964,8.223842,0.774647
+5 (1, 2),(0.630350, 1.561559),121.335501,1.162971,7.835518
+1 (0, 1),(-0.128088, 1.430509),158.704002,7.865387,1.133102
+
+Balloon Seismic Report Time : 2022:10:18 16:59:26
+Ballon Seismic reporting Coord : (2.129216, 2.934705)
+Balloon Seismic Location Different with reporting node : 296.771289
+Balloon Seismic Magnitude : 5.796699
+Balloon Seismic Magnitude Different with reporting node : 3.201790
+
+Communication Time (seconds) : 0.901969
+Total Message between reporting nodes and adjacent nodes : 8
+Number of adjacent matches with reporting node : 2
+Location Threshold : 300.000000
+Magnitude Threshold : 2.500000
+Magnitude Difference Threshold : 3.000000
+
